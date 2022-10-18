@@ -6,6 +6,7 @@
 	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 </div>
 
 ## Tool

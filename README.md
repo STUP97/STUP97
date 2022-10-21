@@ -1,18 +1,22 @@
 
 ✨Personal Project✨
 
-2021/03/01 ~ 2021/06/01		(JS/HTML/CSS)	Login Page
+2021/03/01 ~ 2021/06/01
+* Login Page  (JS/HTML/CSS)	
 
-2021/09/01 ~ 2021/12/01		(C++)		Algorithm
 
-2021/09/01 ~ 2021/12/01		(Kotlin)	Zer0
+2021/09/01 ~ 2021/12/01
+* Algorithm (C++)	
+* Zer0 (Kotlin)	
 
-2022/09/01 ~ now		(Unity)		LiDAR & Point Cloud
+2022/09/01 ~
+* LiDAR & Point Cloud (Unity)
 
 
 ✨Team Project✨
 
-2022/03/01 ~ 2022/06/01 	(Unreal Engine) Forest 4 Guardians
+2022/03/01 ~ 2022/06/01
+* Forest 4 Guardians (Unreal Engine) 
 
 # Tech Stack
 ## Langueage

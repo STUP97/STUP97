@@ -1,5 +1,19 @@
 
-✨I want to get a job.✨
+✨Personal Project✨
+
+2021/03/01 ~ 2021/06/01		(JS/HTML/CSS)	Login Page
+
+2021/09/01 ~ 2021/12/01		(C++)		Algorithm
+
+2021/09/01 ~ 2021/12/01		(Kotlin)	Zer0
+
+2022/09/01 ~ now		(Unity)		LiDAR & Point Cloud
+
+
+✨Team Project✨
+
+2022/03/01 ~ 2022/06/01 	(Unreal Engine) Forest 4 Guardians
+
 # Tech Stack
 ## Langueage
 <div>
